@@ -1,0 +1,3930 @@
+[
+ {
+  "offerId": "610001",
+  "subject": "260g重磅纯棉短袖T恤 宽松落肩 男女同款 支持定制logo",
+  "subjectTrans": "260gsm heavyweight cotton oversized tee, custom logo",
+  "price": 32.0,
+  "minOrderQuantity": 50,
+  "priceRangeList": [
+   {
+    "startQuantity": 50,
+    "price": 32.0
+   },
+   {
+    "startQuantity": 200,
+    "price": 27.5
+   },
+   {
+    "startQuantity": 1000,
+    "price": 23.0
+   }
+  ],
+  "unit": "件",
+  "monthSold": 3800,
+  "evaluateCount": 920,
+  "score": 4.8,
+  "imageUrl": "https://cbu01.alicdn.com/img/ibank/610001.jpg",
+  "detailUrl": "https://detail.1688.com/offer/610001.html",
+  "categoryName": "男装>T恤",
+  "attributes": {
+   "材质": "100%纯棉 260g精梳棉",
+   "克重": "260g",
+   "版型": "宽松",
+   "工艺": "丝印/刺绣"
+  },
+  "skuInfos": [
+   {
+    "skuId": "黑色-S",
+    "price": 32.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-M",
+    "price": 32.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-L",
+    "price": 32.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-XL",
+    "price": 32.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XL"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-XXL",
+    "price": 32.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XXL"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-S",
+    "price": 32.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-M",
+    "price": 32.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-L",
+    "price": 32.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-XL",
+    "price": 32.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XL"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-XXL",
+    "price": 32.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XXL"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-S",
+    "price": 32.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-M",
+    "price": 32.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-L",
+    "price": 32.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-XL",
+    "price": 32.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XL"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-XXL",
+    "price": 32.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XXL"
+     }
+    ]
+   }
+  ],
+  "sellerInfo": {
+   "sellerId": "hzgarment",
+   "loginId": "hzgarment",
+   "companyName": "广州汇众服饰有限公司",
+   "tpYear": 9,
+   "repurchaseRate": "42%",
+   "responseRate": "96%",
+   "compositeScore": 4.8,
+   "province": "广东",
+   "city": "广州",
+   "isTrustPass": true,
+   "isPowerfulMerchant": true,
+   "supportCustomization": true,
+   "supportSample": true,
+   "businessType": "factory",
+   "tradeCount": 2400
+  }
+ },
+ {
+  "offerId": "610002",
+  "subject": "280g重磅纯棉T恤 美式复古 落肩宽松 小批量定制",
+  "subjectTrans": "280gsm heavyweight vintage cotton tee small batch",
+  "price": 38.0,
+  "minOrderQuantity": 30,
+  "priceRangeList": [
+   {
+    "startQuantity": 30,
+    "price": 38.0
+   },
+   {
+    "startQuantity": 100,
+    "price": 34.0
+   },
+   {
+    "startQuantity": 500,
+    "price": 29.5
+   }
+  ],
+  "unit": "件",
+  "monthSold": 1500,
+  "evaluateCount": 310,
+  "score": 4.7,
+  "imageUrl": "https://cbu01.alicdn.com/img/ibank/610002.jpg",
+  "detailUrl": "https://detail.1688.com/offer/610002.html",
+  "categoryName": "男装>T恤",
+  "attributes": {
+   "材质": "100%纯棉 280g",
+   "克重": "280g",
+   "版型": "宽松",
+   "起订量说明": "30件起定制"
+  },
+  "skuInfos": [
+   {
+    "skuId": "黑色-S",
+    "price": 38.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-M",
+    "price": 38.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-L",
+    "price": 38.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-XL",
+    "price": 38.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XL"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-XXL",
+    "price": 38.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XXL"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-S",
+    "price": 38.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-M",
+    "price": 38.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-L",
+    "price": 38.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-XL",
+    "price": 38.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XL"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-XXL",
+    "price": 38.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XXL"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-S",
+    "price": 38.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-M",
+    "price": 38.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-L",
+    "price": 38.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-XL",
+    "price": 38.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XL"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-XXL",
+    "price": 38.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XXL"
+     }
+    ]
+   }
+  ],
+  "sellerInfo": {
+   "sellerId": "dgheavy",
+   "loginId": "dgheavy",
+   "companyName": "东莞市启越制衣厂",
+   "tpYear": 6,
+   "repurchaseRate": "36%",
+   "responseRate": "92%",
+   "compositeScore": 4.7,
+   "province": "广东",
+   "city": "东莞",
+   "isTrustPass": true,
+   "isPowerfulMerchant": true,
+   "supportCustomization": true,
+   "supportSample": true,
+   "businessType": "factory",
+   "tradeCount": 1100
+  }
+ },
+ {
+  "offerId": "610003",
+  "subject": "纯棉圆领T恤 精梳棉 现货批发 一件代发",
+  "subjectTrans": "combed cotton crew neck tee wholesale dropshipping",
+  "price": 21.5,
+  "minOrderQuantity": 2,
+  "priceRangeList": [
+   {
+    "startQuantity": 2,
+    "price": 21.5
+   },
+   {
+    "startQuantity": 100,
+    "price": 18.9
+   },
+   {
+    "startQuantity": 500,
+    "price": 16.5
+   }
+  ],
+  "unit": "件",
+  "monthSold": 6200,
+  "evaluateCount": 1500,
+  "score": 4.4,
+  "imageUrl": "https://cbu01.alicdn.com/img/ibank/610003.jpg",
+  "detailUrl": "https://detail.1688.com/offer/610003.html",
+  "categoryName": "女装>T恤",
+  "attributes": {
+   "材质": "95%棉 5%氨纶",
+   "克重": "180g",
+   "版型": "常规"
+  },
+  "skuInfos": [
+   {
+    "skuId": "黑色-S",
+    "price": 21.5,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-M",
+    "price": 21.5,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-L",
+    "price": 21.5,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-XL",
+    "price": 21.5,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XL"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-XXL",
+    "price": 21.5,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XXL"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-S",
+    "price": 21.5,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-M",
+    "price": 21.5,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-L",
+    "price": 21.5,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-XL",
+    "price": 21.5,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XL"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-XXL",
+    "price": 21.5,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XXL"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-S",
+    "price": 21.5,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-M",
+    "price": 21.5,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-L",
+    "price": 21.5,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-XL",
+    "price": 21.5,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XL"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-XXL",
+    "price": 21.5,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XXL"
+     }
+    ]
+   }
+  ],
+  "sellerInfo": {
+   "sellerId": "yiwutex",
+   "loginId": "yiwutex",
+   "companyName": "义乌市锦诚服饰商行",
+   "tpYear": 3,
+   "repurchaseRate": "22%",
+   "responseRate": "88%",
+   "compositeScore": 4.4,
+   "province": "浙江",
+   "city": "义乌",
+   "isTrustPass": true,
+   "isPowerfulMerchant": false,
+   "supportCustomization": true,
+   "supportSample": true,
+   "businessType": "trader",
+   "tradeCount": 800
+  }
+ },
+ {
+  "offerId": "610004",
+  "subject": "夏季速干T恤 涤纶网眼 运动透气 厂家直销",
+  "subjectTrans": "quick dry polyester sport tee",
+  "price": 9.8,
+  "minOrderQuantity": 100,
+  "priceRangeList": [
+   {
+    "startQuantity": 100,
+    "price": 9.8
+   },
+   {
+    "startQuantity": 1000,
+    "price": 8.2
+   }
+  ],
+  "unit": "件",
+  "monthSold": 9000,
+  "evaluateCount": 2100,
+  "score": 4.5,
+  "imageUrl": "https://cbu01.alicdn.com/img/ibank/610004.jpg",
+  "detailUrl": "https://detail.1688.com/offer/610004.html",
+  "categoryName": "男装>运动T恤",
+  "attributes": {
+   "材质": "100%聚酯纤维",
+   "克重": "140g",
+   "功能": "速干 透气"
+  },
+  "skuInfos": [
+   {
+    "skuId": "黑色-S",
+    "price": 9.8,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-M",
+    "price": 9.8,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-L",
+    "price": 9.8,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-XL",
+    "price": 9.8,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XL"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-XXL",
+    "price": 9.8,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XXL"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-S",
+    "price": 9.8,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-M",
+    "price": 9.8,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-L",
+    "price": 9.8,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-XL",
+    "price": 9.8,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XL"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-XXL",
+    "price": 9.8,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XXL"
+     }
+    ]
+   }
+  ],
+  "sellerInfo": {
+   "sellerId": "fjsport",
+   "loginId": "fjsport",
+   "companyName": "福建晋江捷程运动用品",
+   "tpYear": 5,
+   "repurchaseRate": "28%",
+   "responseRate": "94%",
+   "compositeScore": 4.5,
+   "province": "福建",
+   "city": "泉州",
+   "isTrustPass": true,
+   "isPowerfulMerchant": false,
+   "supportCustomization": true,
+   "supportSample": true,
+   "businessType": "factory",
+   "tradeCount": 1900
+  }
+ },
+ {
+  "offerId": "610005",
+  "subject": "外贸原单T恤 清仓处理 超低价 A货同款",
+  "subjectTrans": "clearance tee stock lot",
+  "price": 4.2,
+  "minOrderQuantity": 200,
+  "priceRangeList": [
+   {
+    "startQuantity": 200,
+    "price": 4.2
+   },
+   {
+    "startQuantity": 2000,
+    "price": 3.5
+   }
+  ],
+  "unit": "件",
+  "monthSold": 400,
+  "evaluateCount": 30,
+  "score": 3.6,
+  "imageUrl": "https://cbu01.alicdn.com/img/ibank/610005.jpg",
+  "detailUrl": "https://detail.1688.com/offer/610005.html",
+  "categoryName": "男装>T恤",
+  "attributes": {
+   "材质": "棉涤",
+   "克重": "150g"
+  },
+  "skuInfos": [
+   {
+    "skuId": "黑色-M",
+    "price": 4.2,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-L",
+    "price": 4.2,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   }
+  ],
+  "sellerInfo": {
+   "sellerId": "newshop88",
+   "loginId": "newshop88",
+   "companyName": "个体经营 小李服装",
+   "tpYear": 0.5,
+   "repurchaseRate": "6%",
+   "responseRate": "61%",
+   "compositeScore": 3.6,
+   "province": "河北",
+   "city": "石家庄",
+   "isTrustPass": false,
+   "isPowerfulMerchant": false,
+   "supportCustomization": false,
+   "supportSample": false,
+   "businessType": "trader",
+   "tradeCount": 40
+  }
+ },
+ {
+  "offerId": "620001",
+  "subject": "400g重磅加绒连帽卫衣 落肩宽松 男女同款 支持刺绣定制",
+  "subjectTrans": "400gsm heavyweight fleece hoodie custom embroidery",
+  "price": 68.0,
+  "minOrderQuantity": 50,
+  "priceRangeList": [
+   {
+    "startQuantity": 50,
+    "price": 68.0
+   },
+   {
+    "startQuantity": 200,
+    "price": 61.0
+   },
+   {
+    "startQuantity": 800,
+    "price": 54.0
+   }
+  ],
+  "unit": "件",
+  "monthSold": 2100,
+  "evaluateCount": 640,
+  "score": 4.8,
+  "imageUrl": "https://cbu01.alicdn.com/img/ibank/620001.jpg",
+  "detailUrl": "https://detail.1688.com/offer/620001.html",
+  "categoryName": "男装>卫衣",
+  "attributes": {
+   "材质": "80%棉 20%涤纶 400g加绒",
+   "克重": "400g",
+   "版型": "宽松",
+   "工艺": "3D刺绣"
+  },
+  "skuInfos": [
+   {
+    "skuId": "黑色-S",
+    "price": 68.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-M",
+    "price": 68.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-L",
+    "price": 68.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-XL",
+    "price": 68.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XL"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-XXL",
+    "price": 68.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XXL"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-S",
+    "price": 68.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-M",
+    "price": 68.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-L",
+    "price": 68.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-XL",
+    "price": 68.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XL"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-XXL",
+    "price": 68.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XXL"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-S",
+    "price": 68.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-M",
+    "price": 68.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-L",
+    "price": 68.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-XL",
+    "price": 68.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XL"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-XXL",
+    "price": 68.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XXL"
+     }
+    ]
+   }
+  ],
+  "sellerInfo": {
+   "sellerId": "hzgarment",
+   "loginId": "hzgarment",
+   "companyName": "广州汇众服饰有限公司",
+   "tpYear": 9,
+   "repurchaseRate": "42%",
+   "responseRate": "96%",
+   "compositeScore": 4.8,
+   "province": "广东",
+   "city": "广州",
+   "isTrustPass": true,
+   "isPowerfulMerchant": true,
+   "supportCustomization": true,
+   "supportSample": true,
+   "businessType": "factory",
+   "tradeCount": 2400
+  }
+ },
+ {
+  "offerId": "620002",
+  "subject": "有机棉童装连帽卫衣 小批量 环保认证 OEKO-TEX",
+  "subjectTrans": "organic cotton kids hoodie OEKO-TEX certified",
+  "price": 45.0,
+  "minOrderQuantity": 20,
+  "priceRangeList": [
+   {
+    "startQuantity": 20,
+    "price": 45.0
+   },
+   {
+    "startQuantity": 100,
+    "price": 41.0
+   },
+   {
+    "startQuantity": 500,
+    "price": 36.5
+   }
+  ],
+  "unit": "件",
+  "monthSold": 780,
+  "evaluateCount": 190,
+  "score": 4.7,
+  "imageUrl": "https://cbu01.alicdn.com/img/ibank/620002.jpg",
+  "detailUrl": "https://detail.1688.com/offer/620002.html",
+  "categoryName": "童装>卫衣",
+  "attributes": {
+   "材质": "100%有机棉",
+   "克重": "320g",
+   "认证": "OEKO-TEX认证 GOTS认证"
+  },
+  "skuInfos": [
+   {
+    "skuId": "米白-100",
+    "price": 45.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "米白"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "100"
+     }
+    ]
+   },
+   {
+    "skuId": "米白-110",
+    "price": 45.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "米白"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "110"
+     }
+    ]
+   },
+   {
+    "skuId": "米白-120",
+    "price": 45.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "米白"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "120"
+     }
+    ]
+   },
+   {
+    "skuId": "米白-130",
+    "price": 45.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "米白"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "130"
+     }
+    ]
+   },
+   {
+    "skuId": "豆绿色-100",
+    "price": 45.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "豆绿色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "100"
+     }
+    ]
+   },
+   {
+    "skuId": "豆绿色-110",
+    "price": 45.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "豆绿色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "110"
+     }
+    ]
+   },
+   {
+    "skuId": "豆绿色-120",
+    "price": 45.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "豆绿色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "120"
+     }
+    ]
+   },
+   {
+    "skuId": "豆绿色-130",
+    "price": 45.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "豆绿色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "130"
+     }
+    ]
+   }
+  ],
+  "sellerInfo": {
+   "sellerId": "nbkids",
+   "loginId": "nbkids",
+   "companyName": "宁波童趣服饰有限公司",
+   "tpYear": 7,
+   "repurchaseRate": "39%",
+   "responseRate": "95%",
+   "compositeScore": 4.7,
+   "province": "浙江",
+   "city": "宁波",
+   "isTrustPass": true,
+   "isPowerfulMerchant": true,
+   "supportCustomization": true,
+   "supportSample": true,
+   "businessType": "factory",
+   "tradeCount": 1400
+  }
+ },
+ {
+  "offerId": "620003",
+  "subject": "摇粒绒卫衣 冬季加厚 现货一件代发",
+  "subjectTrans": "fleece hoodie dropshipping in stock",
+  "price": 39.0,
+  "minOrderQuantity": 1,
+  "priceRangeList": [
+   {
+    "startQuantity": 1,
+    "price": 39.0
+   },
+   {
+    "startQuantity": 50,
+    "price": 35.0
+   },
+   {
+    "startQuantity": 300,
+    "price": 31.0
+   }
+  ],
+  "unit": "件",
+  "monthSold": 4100,
+  "evaluateCount": 880,
+  "score": 4.2,
+  "imageUrl": "https://cbu01.alicdn.com/img/ibank/620003.jpg",
+  "detailUrl": "https://detail.1688.com/offer/620003.html",
+  "categoryName": "女装>卫衣",
+  "attributes": {
+   "材质": "100%涤纶摇粒绒",
+   "克重": "300g"
+  },
+  "skuInfos": [
+   {
+    "skuId": "黑色-S",
+    "price": 39.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-M",
+    "price": 39.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-L",
+    "price": 39.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-XL",
+    "price": 39.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XL"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-XXL",
+    "price": 39.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XXL"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-S",
+    "price": 39.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-M",
+    "price": 39.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-L",
+    "price": 39.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-XL",
+    "price": 39.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XL"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-XXL",
+    "price": 39.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XXL"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-S",
+    "price": 39.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-M",
+    "price": 39.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-L",
+    "price": 39.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-XL",
+    "price": 39.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XL"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-XXL",
+    "price": 39.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XXL"
+     }
+    ]
+   }
+  ],
+  "sellerInfo": {
+   "sellerId": "gzdrop",
+   "loginId": "gzdrop",
+   "companyName": "广州速发供应链",
+   "tpYear": 2,
+   "repurchaseRate": "18%",
+   "responseRate": "90%",
+   "compositeScore": 4.2,
+   "province": "广东",
+   "city": "广州",
+   "isTrustPass": true,
+   "isPowerfulMerchant": false,
+   "supportCustomization": true,
+   "supportSample": true,
+   "businessType": "trader",
+   "tradeCount": 600
+  }
+ },
+ {
+  "offerId": "630001",
+  "subject": "冬季白鸭绒羽绒服 90绒 防风防水 支持定制",
+  "subjectTrans": "90% white duck down puffer jacket recycled shell",
+  "price": 168.0,
+  "minOrderQuantity": 30,
+  "priceRangeList": [
+   {
+    "startQuantity": 30,
+    "price": 168.0
+   },
+   {
+    "startQuantity": 100,
+    "price": 152.0
+   },
+   {
+    "startQuantity": 500,
+    "price": 138.0
+   }
+  ],
+  "unit": "件",
+  "monthSold": 900,
+  "evaluateCount": 260,
+  "score": 4.9,
+  "imageUrl": "https://cbu01.alicdn.com/img/ibank/630001.jpg",
+  "detailUrl": "https://detail.1688.com/offer/630001.html",
+  "categoryName": "女装>羽绒服",
+  "attributes": {
+   "材质": "面料100%再生涤纶 填充90%白鸭绒",
+   "填充物": "90白鸭绒",
+   "认证": "GRS认证 BSCI认证",
+   "功能": "防风 防水"
+  },
+  "skuInfos": [
+   {
+    "skuId": "黑色-S",
+    "price": 168.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-M",
+    "price": 168.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-L",
+    "price": 168.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-XL",
+    "price": 168.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XL"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-XXL",
+    "price": 168.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XXL"
+     }
+    ]
+   },
+   {
+    "skuId": "米色-S",
+    "price": 168.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "米色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "米色-M",
+    "price": 168.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "米色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "米色-L",
+    "price": 168.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "米色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "米色-XL",
+    "price": 168.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "米色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XL"
+     }
+    ]
+   },
+   {
+    "skuId": "米色-XXL",
+    "price": 168.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "米色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XXL"
+     }
+    ]
+   }
+  ],
+  "sellerInfo": {
+   "sellerId": "jsdown",
+   "loginId": "jsdown",
+   "companyName": "江苏常熟羽顺服饰",
+   "tpYear": 11,
+   "repurchaseRate": "45%",
+   "responseRate": "97%",
+   "compositeScore": 4.9,
+   "province": "江苏",
+   "city": "常熟",
+   "isTrustPass": true,
+   "isPowerfulMerchant": true,
+   "supportCustomization": true,
+   "supportSample": true,
+   "businessType": "factory",
+   "tradeCount": 3100
+  }
+ },
+ {
+  "offerId": "630002",
+  "subject": "棉服面包服 冬季保暖 学生款 批发",
+  "subjectTrans": "padded winter jacket wholesale",
+  "price": 78.0,
+  "minOrderQuantity": 50,
+  "priceRangeList": [
+   {
+    "startQuantity": 50,
+    "price": 78.0
+   },
+   {
+    "startQuantity": 300,
+    "price": 70.0
+   }
+  ],
+  "unit": "件",
+  "monthSold": 1200,
+  "evaluateCount": 340,
+  "score": 4.3,
+  "imageUrl": "https://cbu01.alicdn.com/img/ibank/630002.jpg",
+  "detailUrl": "https://detail.1688.com/offer/630002.html",
+  "categoryName": "男装>棉服",
+  "attributes": {
+   "材质": "100%聚酯纤维 棉填充",
+   "填充物": "仿丝棉"
+  },
+  "skuInfos": [
+   {
+    "skuId": "黑色-S",
+    "price": 78.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-M",
+    "price": 78.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-L",
+    "price": 78.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-XL",
+    "price": 78.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XL"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-XXL",
+    "price": 78.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XXL"
+     }
+    ]
+   },
+   {
+    "skuId": "军绿色-S",
+    "price": 78.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "军绿色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "军绿色-M",
+    "price": 78.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "军绿色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "军绿色-L",
+    "price": 78.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "军绿色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "军绿色-XL",
+    "price": 78.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "军绿色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XL"
+     }
+    ]
+   },
+   {
+    "skuId": "军绿色-XXL",
+    "price": 78.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "军绿色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XXL"
+     }
+    ]
+   }
+  ],
+  "sellerInfo": {
+   "sellerId": "hbcoat",
+   "loginId": "hbcoat",
+   "companyName": "河北衡水暖冬制衣",
+   "tpYear": 4,
+   "repurchaseRate": "24%",
+   "responseRate": "85%",
+   "compositeScore": 4.3,
+   "province": "河北",
+   "city": "衡水",
+   "isTrustPass": true,
+   "isPowerfulMerchant": false,
+   "supportCustomization": true,
+   "supportSample": true,
+   "businessType": "factory",
+   "tradeCount": 700
+  }
+ },
+ {
+  "offerId": "640001",
+  "subject": "美式工装裤 水洗做旧 多口袋 宽松直筒 男",
+  "subjectTrans": "washed cotton cargo pants straight leg",
+  "price": 59.0,
+  "minOrderQuantity": 30,
+  "priceRangeList": [
+   {
+    "startQuantity": 30,
+    "price": 59.0
+   },
+   {
+    "startQuantity": 200,
+    "price": 52.0
+   },
+   {
+    "startQuantity": 1000,
+    "price": 46.0
+   }
+  ],
+  "unit": "件",
+  "monthSold": 2600,
+  "evaluateCount": 710,
+  "score": 4.6,
+  "imageUrl": "https://cbu01.alicdn.com/img/ibank/640001.jpg",
+  "detailUrl": "https://detail.1688.com/offer/640001.html",
+  "categoryName": "男装>工装裤",
+  "attributes": {
+   "材质": "100%纯棉斜纹布",
+   "版型": "直筒",
+   "工艺": "水洗"
+  },
+  "skuInfos": [
+   {
+    "skuId": "卡其色-28",
+    "price": 59.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "卡其色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "28"
+     }
+    ]
+   },
+   {
+    "skuId": "卡其色-30",
+    "price": 59.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "卡其色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "30"
+     }
+    ]
+   },
+   {
+    "skuId": "卡其色-32",
+    "price": 59.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "卡其色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "32"
+     }
+    ]
+   },
+   {
+    "skuId": "卡其色-34",
+    "price": 59.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "卡其色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "34"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-28",
+    "price": 59.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "28"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-30",
+    "price": 59.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "30"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-32",
+    "price": 59.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "32"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-34",
+    "price": 59.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "34"
+     }
+    ]
+   }
+  ],
+  "sellerInfo": {
+   "sellerId": "gzworkwear",
+   "loginId": "gzworkwear",
+   "companyName": "广州工装源头厂",
+   "tpYear": 8,
+   "repurchaseRate": "34%",
+   "responseRate": "93%",
+   "compositeScore": 4.6,
+   "province": "广东",
+   "city": "广州",
+   "isTrustPass": true,
+   "isPowerfulMerchant": true,
+   "supportCustomization": true,
+   "supportSample": true,
+   "businessType": "factory",
+   "tradeCount": 1600
+  }
+ },
+ {
+  "offerId": "640002",
+  "subject": "高腰阔腿牛仔裤 女 显瘦 弹力",
+  "subjectTrans": "high waist wide leg stretch jeans",
+  "price": 48.0,
+  "minOrderQuantity": 20,
+  "priceRangeList": [
+   {
+    "startQuantity": 20,
+    "price": 48.0
+   },
+   {
+    "startQuantity": 100,
+    "price": 43.0
+   },
+   {
+    "startQuantity": 600,
+    "price": 38.0
+   }
+  ],
+  "unit": "件",
+  "monthSold": 3300,
+  "evaluateCount": 980,
+  "score": 4.5,
+  "imageUrl": "https://cbu01.alicdn.com/img/ibank/640002.jpg",
+  "detailUrl": "https://detail.1688.com/offer/640002.html",
+  "categoryName": "女装>牛仔裤",
+  "attributes": {
+   "材质": "98%棉 2%氨纶 牛仔布",
+   "版型": "阔腿",
+   "腰型": "高腰"
+  },
+  "skuInfos": [
+   {
+    "skuId": "深蓝-S",
+    "price": 48.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "深蓝"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "深蓝-M",
+    "price": 48.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "深蓝"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "深蓝-L",
+    "price": 48.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "深蓝"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "深蓝-XL",
+    "price": 48.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "深蓝"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XL"
+     }
+    ]
+   },
+   {
+    "skuId": "浅蓝-S",
+    "price": 48.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "浅蓝"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "浅蓝-M",
+    "price": 48.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "浅蓝"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "浅蓝-L",
+    "price": 48.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "浅蓝"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "浅蓝-XL",
+    "price": 48.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "浅蓝"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XL"
+     }
+    ]
+   }
+  ],
+  "sellerInfo": {
+   "sellerId": "gzdenim",
+   "loginId": "gzdenim",
+   "companyName": "广州牛仔谷制衣",
+   "tpYear": 6,
+   "repurchaseRate": "31%",
+   "responseRate": "91%",
+   "compositeScore": 4.5,
+   "province": "广东",
+   "city": "广州",
+   "isTrustPass": true,
+   "isPowerfulMerchant": false,
+   "supportCustomization": true,
+   "supportSample": true,
+   "businessType": "factory",
+   "tradeCount": 1200
+  }
+ },
+ {
+  "offerId": "640003",
+  "subject": "束脚运动裤 卫裤 加绒 男女同款",
+  "subjectTrans": "fleece joggers unisex",
+  "price": 35.0,
+  "minOrderQuantity": 50,
+  "priceRangeList": [
+   {
+    "startQuantity": 50,
+    "price": 35.0
+   },
+   {
+    "startQuantity": 200,
+    "price": 31.0
+   }
+  ],
+  "unit": "件",
+  "monthSold": 1800,
+  "evaluateCount": 420,
+  "score": 4.7,
+  "imageUrl": "https://cbu01.alicdn.com/img/ibank/640003.jpg",
+  "detailUrl": "https://detail.1688.com/offer/640003.html",
+  "categoryName": "男装>卫裤",
+  "attributes": {
+   "材质": "70%棉 30%涤纶",
+   "版型": "束脚"
+  },
+  "skuInfos": [
+   {
+    "skuId": "黑色-S",
+    "price": 35.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-M",
+    "price": 35.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-L",
+    "price": 35.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-XL",
+    "price": 35.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XL"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-XXL",
+    "price": 35.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XXL"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-S",
+    "price": 35.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-M",
+    "price": 35.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-L",
+    "price": 35.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-XL",
+    "price": 35.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XL"
+     }
+    ]
+   },
+   {
+    "skuId": "白色-XXL",
+    "price": 35.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "白色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XXL"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-S",
+    "price": 35.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-M",
+    "price": 35.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-L",
+    "price": 35.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-XL",
+    "price": 35.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XL"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-XXL",
+    "price": 35.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XXL"
+     }
+    ]
+   }
+  ],
+  "sellerInfo": {
+   "sellerId": "dgheavy",
+   "loginId": "dgheavy",
+   "companyName": "东莞市启越制衣厂",
+   "tpYear": 6,
+   "repurchaseRate": "36%",
+   "responseRate": "92%",
+   "compositeScore": 4.7,
+   "province": "广东",
+   "city": "东莞",
+   "isTrustPass": true,
+   "isPowerfulMerchant": true,
+   "supportCustomization": true,
+   "supportSample": true,
+   "businessType": "factory",
+   "tradeCount": 1100
+  }
+ },
+ {
+  "offerId": "650001",
+  "subject": "真丝连衣裙 桑蚕丝 高端定制 小批量",
+  "subjectTrans": "100% mulberry silk dress small batch custom",
+  "price": 289.0,
+  "minOrderQuantity": 10,
+  "priceRangeList": [
+   {
+    "startQuantity": 10,
+    "price": 289.0
+   },
+   {
+    "startQuantity": 50,
+    "price": 265.0
+   },
+   {
+    "startQuantity": 200,
+    "price": 240.0
+   }
+  ],
+  "unit": "件",
+  "monthSold": 320,
+  "evaluateCount": 110,
+  "score": 4.9,
+  "imageUrl": "https://cbu01.alicdn.com/img/ibank/650001.jpg",
+  "detailUrl": "https://detail.1688.com/offer/650001.html",
+  "categoryName": "女装>连衣裙",
+  "attributes": {
+   "材质": "100%桑蚕丝",
+   "认证": "OEKO-TEX认证"
+  },
+  "skuInfos": [
+   {
+    "skuId": "米色-S",
+    "price": 289.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "米色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "米色-M",
+    "price": 289.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "米色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "米色-L",
+    "price": 289.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "米色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-S",
+    "price": 289.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-M",
+    "price": 289.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-L",
+    "price": 289.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   }
+  ],
+  "sellerInfo": {
+   "sellerId": "hzsilk",
+   "loginId": "hzsilk",
+   "companyName": "杭州丝韵服饰有限公司",
+   "tpYear": 12,
+   "repurchaseRate": "48%",
+   "responseRate": "98%",
+   "compositeScore": 4.9,
+   "province": "浙江",
+   "city": "杭州",
+   "isTrustPass": true,
+   "isPowerfulMerchant": true,
+   "supportCustomization": true,
+   "supportSample": true,
+   "businessType": "factory",
+   "tradeCount": 2000
+  }
+ },
+ {
+  "offerId": "650002",
+  "subject": "雪纺碎花连衣裙 夏季 度假风 现货",
+  "subjectTrans": "chiffon floral summer dress in stock",
+  "price": 42.0,
+  "minOrderQuantity": 5,
+  "priceRangeList": [
+   {
+    "startQuantity": 5,
+    "price": 42.0
+   },
+   {
+    "startQuantity": 50,
+    "price": 37.0
+   },
+   {
+    "startQuantity": 300,
+    "price": 32.0
+   }
+  ],
+  "unit": "件",
+  "monthSold": 5400,
+  "evaluateCount": 1300,
+  "score": 4.4,
+  "imageUrl": "https://cbu01.alicdn.com/img/ibank/650002.jpg",
+  "detailUrl": "https://detail.1688.com/offer/650002.html",
+  "categoryName": "女装>连衣裙",
+  "attributes": {
+   "材质": "100%聚酯纤维雪纺",
+   "风格": "度假"
+  },
+  "skuInfos": [
+   {
+    "skuId": "碎花A-S",
+    "price": 42.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "碎花A"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "碎花A-M",
+    "price": 42.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "碎花A"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "碎花A-L",
+    "price": 42.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "碎花A"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "碎花B-S",
+    "price": 42.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "碎花B"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "碎花B-M",
+    "price": 42.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "碎花B"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "碎花B-L",
+    "price": 42.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "碎花B"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   }
+  ],
+  "sellerInfo": {
+   "sellerId": "yiwutex",
+   "loginId": "yiwutex",
+   "companyName": "义乌市锦诚服饰商行",
+   "tpYear": 3,
+   "repurchaseRate": "22%",
+   "responseRate": "88%",
+   "compositeScore": 4.4,
+   "province": "浙江",
+   "city": "义乌",
+   "isTrustPass": true,
+   "isPowerfulMerchant": false,
+   "supportCustomization": true,
+   "supportSample": true,
+   "businessType": "trader",
+   "tradeCount": 800
+  }
+ },
+ {
+  "offerId": "660001",
+  "subject": "无缝瑜伽套装 四面弹 高腰提臀 运动内衣",
+  "subjectTrans": "seamless yoga set four way stretch",
+  "price": 88.0,
+  "minOrderQuantity": 30,
+  "priceRangeList": [
+   {
+    "startQuantity": 30,
+    "price": 88.0
+   },
+   {
+    "startQuantity": 100,
+    "price": 79.0
+   },
+   {
+    "startQuantity": 500,
+    "price": 70.0
+   }
+  ],
+  "unit": "件",
+  "monthSold": 2900,
+  "evaluateCount": 820,
+  "score": 4.8,
+  "imageUrl": "https://cbu01.alicdn.com/img/ibank/660001.jpg",
+  "detailUrl": "https://detail.1688.com/offer/660001.html",
+  "categoryName": "女装>瑜伽服",
+  "attributes": {
+   "材质": "75%尼龙 25%氨纶",
+   "功能": "四面弹 吸湿排汗",
+   "认证": "OEKO-TEX认证"
+  },
+  "skuInfos": [
+   {
+    "skuId": "黑色-S",
+    "price": 88.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-M",
+    "price": 88.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-L",
+    "price": 88.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "豆绿色-S",
+    "price": 88.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "豆绿色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "豆绿色-M",
+    "price": 88.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "豆绿色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "豆绿色-L",
+    "price": 88.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "豆绿色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   }
+  ],
+  "sellerInfo": {
+   "sellerId": "fjyoga",
+   "loginId": "fjyoga",
+   "companyName": "福建厦门悦动运动服饰",
+   "tpYear": 7,
+   "repurchaseRate": "41%",
+   "responseRate": "96%",
+   "compositeScore": 4.8,
+   "province": "福建",
+   "city": "厦门",
+   "isTrustPass": true,
+   "isPowerfulMerchant": true,
+   "supportCustomization": true,
+   "supportSample": true,
+   "businessType": "factory",
+   "tradeCount": 2200
+  }
+ },
+ {
+  "offerId": "660002",
+  "subject": "速干运动短裤 男 跑步 透气",
+  "subjectTrans": "quick dry running shorts",
+  "price": 19.0,
+  "minOrderQuantity": 100,
+  "priceRangeList": [
+   {
+    "startQuantity": 100,
+    "price": 19.0
+   },
+   {
+    "startQuantity": 500,
+    "price": 16.5
+   }
+  ],
+  "unit": "件",
+  "monthSold": 4700,
+  "evaluateCount": 1100,
+  "score": 4.5,
+  "imageUrl": "https://cbu01.alicdn.com/img/ibank/660002.jpg",
+  "detailUrl": "https://detail.1688.com/offer/660002.html",
+  "categoryName": "男装>短裤",
+  "attributes": {
+   "材质": "100%涤纶",
+   "功能": "速干"
+  },
+  "skuInfos": [
+   {
+    "skuId": "黑色-S",
+    "price": 19.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-M",
+    "price": 19.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-L",
+    "price": 19.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-XL",
+    "price": 19.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XL"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-XXL",
+    "price": 19.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XXL"
+     }
+    ]
+   }
+  ],
+  "sellerInfo": {
+   "sellerId": "fjsport",
+   "loginId": "fjsport",
+   "companyName": "福建晋江捷程运动用品",
+   "tpYear": 5,
+   "repurchaseRate": "28%",
+   "responseRate": "94%",
+   "compositeScore": 4.5,
+   "province": "福建",
+   "city": "泉州",
+   "isTrustPass": true,
+   "isPowerfulMerchant": false,
+   "supportCustomization": true,
+   "supportSample": true,
+   "businessType": "factory",
+   "tradeCount": 1900
+  }
+ },
+ {
+  "offerId": "670001",
+  "subject": "纯棉刺绣鸭舌帽 定制logo 棒球帽",
+  "subjectTrans": "cotton embroidered baseball cap custom logo",
+  "price": 12.5,
+  "minOrderQuantity": 50,
+  "priceRangeList": [
+   {
+    "startQuantity": 50,
+    "price": 12.5
+   },
+   {
+    "startQuantity": 500,
+    "price": 10.0
+   },
+   {
+    "startQuantity": 2000,
+    "price": 8.5
+   }
+  ],
+  "unit": "件",
+  "monthSold": 5100,
+  "evaluateCount": 1400,
+  "score": 4.8,
+  "imageUrl": "https://cbu01.alicdn.com/img/ibank/670001.jpg",
+  "detailUrl": "https://detail.1688.com/offer/670001.html",
+  "categoryName": "配饰>帽子",
+  "attributes": {
+   "材质": "100%纯棉",
+   "工艺": "刺绣"
+  },
+  "skuInfos": [
+   {
+    "skuId": "黑色-均码",
+    "price": 12.5,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "均码"
+     }
+    ]
+   },
+   {
+    "skuId": "米色-均码",
+    "price": 12.5,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "米色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "均码"
+     }
+    ]
+   },
+   {
+    "skuId": "军绿色-均码",
+    "price": 12.5,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "军绿色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "均码"
+     }
+    ]
+   }
+  ],
+  "sellerInfo": {
+   "sellerId": "gzcap",
+   "loginId": "gzcap",
+   "companyName": "广州帽艺制帽厂",
+   "tpYear": 10,
+   "repurchaseRate": "44%",
+   "responseRate": "97%",
+   "compositeScore": 4.8,
+   "province": "广东",
+   "city": "广州",
+   "isTrustPass": true,
+   "isPowerfulMerchant": true,
+   "supportCustomization": true,
+   "supportSample": true,
+   "businessType": "factory",
+   "tradeCount": 2800
+  }
+ },
+ {
+  "offerId": "670002",
+  "subject": "帆布托特包 定制印花 环保购物袋",
+  "subjectTrans": "canvas tote bag custom print",
+  "price": 8.8,
+  "minOrderQuantity": 100,
+  "priceRangeList": [
+   {
+    "startQuantity": 100,
+    "price": 8.8
+   },
+   {
+    "startQuantity": 1000,
+    "price": 6.9
+   }
+  ],
+  "unit": "件",
+  "monthSold": 3600,
+  "evaluateCount": 760,
+  "score": 4.5,
+  "imageUrl": "https://cbu01.alicdn.com/img/ibank/670002.jpg",
+  "detailUrl": "https://detail.1688.com/offer/670002.html",
+  "categoryName": "配饰>包袋",
+  "attributes": {
+   "材质": "12安帆布",
+   "工艺": "丝印"
+  },
+  "skuInfos": [
+   {
+    "skuId": "本白-均码",
+    "price": 8.8,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "本白"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "均码"
+     }
+    ]
+   }
+  ],
+  "sellerInfo": {
+   "sellerId": "whbag",
+   "loginId": "whbag",
+   "companyName": "武汉布艺帆布制品厂",
+   "tpYear": 5,
+   "repurchaseRate": "30%",
+   "responseRate": "90%",
+   "compositeScore": 4.5,
+   "province": "湖北",
+   "city": "武汉",
+   "isTrustPass": true,
+   "isPowerfulMerchant": false,
+   "supportCustomization": true,
+   "supportSample": true,
+   "businessType": "factory",
+   "tradeCount": 900
+  }
+ },
+ {
+  "offerId": "680001",
+  "subject": "美利奴羊毛毛衣 圆领针织衫 秋冬",
+  "subjectTrans": "merino wool crewneck sweater",
+  "price": 129.0,
+  "minOrderQuantity": 20,
+  "priceRangeList": [
+   {
+    "startQuantity": 20,
+    "price": 129.0
+   },
+   {
+    "startQuantity": 100,
+    "price": 118.0
+   },
+   {
+    "startQuantity": 500,
+    "price": 105.0
+   }
+  ],
+  "unit": "件",
+  "monthSold": 680,
+  "evaluateCount": 210,
+  "score": 4.7,
+  "imageUrl": "https://cbu01.alicdn.com/img/ibank/680001.jpg",
+  "detailUrl": "https://detail.1688.com/offer/680001.html",
+  "categoryName": "男装>毛衣",
+  "attributes": {
+   "材质": "100%美利奴羊毛",
+   "认证": "OEKO-TEX认证"
+  },
+  "skuInfos": [
+   {
+    "skuId": "藏青色-M",
+    "price": 129.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-L",
+    "price": 129.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "藏青色-XL",
+    "price": 129.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "藏青色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XL"
+     }
+    ]
+   },
+   {
+    "skuId": "驼色-M",
+    "price": 129.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "驼色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "驼色-L",
+    "price": 129.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "驼色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "驼色-XL",
+    "price": 129.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "驼色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XL"
+     }
+    ]
+   }
+  ],
+  "sellerInfo": {
+   "sellerId": "jxknit",
+   "loginId": "jxknit",
+   "companyName": "江西赣州织造有限公司",
+   "tpYear": 8,
+   "repurchaseRate": "37%",
+   "responseRate": "94%",
+   "compositeScore": 4.7,
+   "province": "江西",
+   "city": "赣州",
+   "isTrustPass": true,
+   "isPowerfulMerchant": true,
+   "supportCustomization": true,
+   "supportSample": true,
+   "businessType": "factory",
+   "tradeCount": 1300
+  }
+ },
+ {
+  "offerId": "680002",
+  "subject": "针织开衫 女 薄款 春秋 一件代发",
+  "subjectTrans": "knit cardigan dropshipping",
+  "price": 52.0,
+  "minOrderQuantity": 2,
+  "priceRangeList": [
+   {
+    "startQuantity": 2,
+    "price": 52.0
+   },
+   {
+    "startQuantity": 50,
+    "price": 47.0
+   },
+   {
+    "startQuantity": 300,
+    "price": 41.0
+   }
+  ],
+  "unit": "件",
+  "monthSold": 2400,
+  "evaluateCount": 560,
+  "score": 4.2,
+  "imageUrl": "https://cbu01.alicdn.com/img/ibank/680002.jpg",
+  "detailUrl": "https://detail.1688.com/offer/680002.html",
+  "categoryName": "女装>开衫",
+  "attributes": {
+   "材质": "50%腈纶 50%粘胶纤维",
+   "厚度": "薄款"
+  },
+  "skuInfos": [
+   {
+    "skuId": "米白-S",
+    "price": 52.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "米白"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "米白-M",
+    "price": 52.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "米白"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "米白-L",
+    "price": 52.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "米白"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "粉色-S",
+    "price": 52.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "粉色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "S"
+     }
+    ]
+   },
+   {
+    "skuId": "粉色-M",
+    "price": 52.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "粉色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "粉色-L",
+    "price": 52.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "粉色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   }
+  ],
+  "sellerInfo": {
+   "sellerId": "gzdrop",
+   "loginId": "gzdrop",
+   "companyName": "广州速发供应链",
+   "tpYear": 2,
+   "repurchaseRate": "18%",
+   "responseRate": "90%",
+   "compositeScore": 4.2,
+   "province": "广东",
+   "city": "广州",
+   "isTrustPass": true,
+   "isPowerfulMerchant": false,
+   "supportCustomization": true,
+   "supportSample": true,
+   "businessType": "trader",
+   "tradeCount": 600
+  }
+ },
+ {
+  "offerId": "610006",
+  "subject": "PU皮短袖T恤 潮牌 街头风",
+  "subjectTrans": "pu leather street style tee",
+  "price": 55.0,
+  "minOrderQuantity": 50,
+  "priceRangeList": [
+   {
+    "startQuantity": 50,
+    "price": 55.0
+   },
+   {
+    "startQuantity": 200,
+    "price": 49.0
+   }
+  ],
+  "unit": "件",
+  "monthSold": 300,
+  "evaluateCount": 45,
+  "score": 4.1,
+  "imageUrl": "https://cbu01.alicdn.com/img/ibank/610006.jpg",
+  "detailUrl": "https://detail.1688.com/offer/610006.html",
+  "categoryName": "男装>T恤",
+  "attributes": {
+   "材质": "PU皮 涤纶里布",
+   "风格": "街头"
+  },
+  "skuInfos": [
+   {
+    "skuId": "黑色-M",
+    "price": 55.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "M"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-L",
+    "price": 55.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "L"
+     }
+    ]
+   },
+   {
+    "skuId": "黑色-XL",
+    "price": 55.0,
+    "amountOnSale": 800,
+    "attributes": [
+     {
+      "attributeName": "颜色",
+      "value": "黑色"
+     },
+     {
+      "attributeName": "尺码",
+      "value": "XL"
+     }
+    ]
+   }
+  ],
+  "sellerInfo": {
+   "sellerId": "gzstreet",
+   "loginId": "gzstreet",
+   "companyName": "广州潮流服饰工作室",
+   "tpYear": 3,
+   "repurchaseRate": "20%",
+   "responseRate": "87%",
+   "compositeScore": 4.1,
+   "province": "广东",
+   "city": "广州",
+   "isTrustPass": true,
+   "isPowerfulMerchant": false,
+   "supportCustomization": true,
+   "supportSample": true,
+   "businessType": "trader",
+   "tradeCount": 300
+  }
+ }
+]

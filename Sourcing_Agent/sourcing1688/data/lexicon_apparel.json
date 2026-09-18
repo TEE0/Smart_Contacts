@@ -1,0 +1,945 @@
+{
+  "_comment": "English -> Simplified Chinese apparel sourcing lexicon. The first Chinese term is the primary query token; the rest are alternates used to widen a search. Terms are the phrasing 1688 listings actually use, not dictionary literals.",
+  "garment": {
+    "t-shirt": [
+      "短袖T恤",
+      "T恤",
+      "纯棉T恤"
+    ],
+    "tee": [
+      "短袖T恤",
+      "T恤"
+    ],
+    "long sleeve tee": [
+      "长袖T恤",
+      "打底衫"
+    ],
+    "oversized tee": [
+      "宽松短袖T恤",
+      "oversize T恤",
+      "落肩T恤"
+    ],
+    "heavyweight tee": [
+      "重磅短袖T恤",
+      "重磅纯棉T恤"
+    ],
+    "hoodie": [
+      "连帽卫衣",
+      "帽衫",
+      "卫衣"
+    ],
+    "zip hoodie": [
+      "拉链卫衣",
+      "开衫卫衣"
+    ],
+    "sweatshirt": [
+      "圆领卫衣",
+      "卫衣"
+    ],
+    "crewneck": [
+      "圆领卫衣"
+    ],
+    "sweater": [
+      "毛衣",
+      "针织衫"
+    ],
+    "knitwear": [
+      "针织衫",
+      "毛织衫"
+    ],
+    "cardigan": [
+      "开衫",
+      "针织开衫"
+    ],
+    "jacket": [
+      "夹克",
+      "外套"
+    ],
+    "bomber jacket": [
+      "飞行员夹克",
+      "棒球领夹克"
+    ],
+    "varsity jacket": [
+      "棒球服",
+      "棒球外套"
+    ],
+    "denim jacket": [
+      "牛仔外套",
+      "牛仔夹克"
+    ],
+    "puffer jacket": [
+      "羽绒服",
+      "棉服",
+      "面包服"
+    ],
+    "padded jacket": [
+      "棉服",
+      "棉衣"
+    ],
+    "coat": [
+      "大衣",
+      "外套"
+    ],
+    "trench coat": [
+      "风衣",
+      "长款风衣"
+    ],
+    "windbreaker": [
+      "风衣外套",
+      "冲锋衣"
+    ],
+    "softshell": [
+      "软壳冲锋衣"
+    ],
+    "vest": [
+      "马甲",
+      "背心"
+    ],
+    "gilet": [
+      "马甲",
+      "羽绒马甲"
+    ],
+    "shirt": [
+      "衬衫",
+      "长袖衬衫"
+    ],
+    "blouse": [
+      "女衬衫",
+      "雪纺衫"
+    ],
+    "polo shirt": [
+      "POLO衫",
+      "翻领T恤"
+    ],
+    "tank top": [
+      "背心",
+      "吊带背心"
+    ],
+    "crop top": [
+      "短款上衣",
+      "露脐上衣"
+    ],
+    "bodysuit": [
+      "连体衣",
+      "紧身衣"
+    ],
+    "dress": [
+      "连衣裙"
+    ],
+    "maxi dress": [
+      "长款连衣裙",
+      "长裙"
+    ],
+    "midi dress": [
+      "中长连衣裙"
+    ],
+    "skirt": [
+      "半身裙"
+    ],
+    "pleated skirt": [
+      "百褶裙"
+    ],
+    "jeans": [
+      "牛仔裤"
+    ],
+    "cargo pants": [
+      "工装裤",
+      "多口袋裤"
+    ],
+    "trousers": [
+      "裤子",
+      "长裤"
+    ],
+    "chinos": [
+      "休闲裤",
+      "西裤"
+    ],
+    "sweatpants": [
+      "卫裤",
+      "运动长裤"
+    ],
+    "joggers": [
+      "束脚运动裤",
+      "束脚卫裤"
+    ],
+    "shorts": [
+      "短裤"
+    ],
+    "leggings": [
+      "打底裤",
+      "瑜伽裤"
+    ],
+    "yoga set": [
+      "瑜伽套装",
+      "运动套装"
+    ],
+    "tracksuit": [
+      "运动套装",
+      "卫衣套装"
+    ],
+    "two piece set": [
+      "两件套",
+      "套装"
+    ],
+    "suit": [
+      "西装",
+      "西服套装"
+    ],
+    "blazer": [
+      "西装外套",
+      "小西装"
+    ],
+    "sports bra": [
+      "运动内衣",
+      "运动文胸"
+    ],
+    "underwear": [
+      "内裤",
+      "内衣"
+    ],
+    "lingerie": [
+      "内衣",
+      "文胸套装"
+    ],
+    "swimwear": [
+      "泳衣",
+      "泳装"
+    ],
+    "bikini": [
+      "比基尼"
+    ],
+    "pajamas": [
+      "睡衣",
+      "家居服"
+    ],
+    "loungewear": [
+      "家居服",
+      "居家套装"
+    ],
+    "socks": [
+      "袜子",
+      "船袜"
+    ],
+    "cap": [
+      "鸭舌帽",
+      "棒球帽"
+    ],
+    "hat": [
+      "帽子"
+    ],
+    "beanie": [
+      "针织帽",
+      "毛线帽"
+    ],
+    "bucket hat": [
+      "渔夫帽"
+    ],
+    "scarf": [
+      "围巾"
+    ],
+    "bag": [
+      "包包",
+      "手提包"
+    ],
+    "tote bag": [
+      "帆布袋",
+      "托特包"
+    ],
+    "kids clothing": [
+      "童装"
+    ],
+    "baby clothing": [
+      "婴儿服",
+      "婴幼儿服装"
+    ],
+    "abaya": [
+      "阿拉伯长袍",
+      "迪拜长袍"
+    ],
+    "workwear": [
+      "工作服",
+      "劳保服"
+    ],
+    "uniform": [
+      "制服",
+      "工装"
+    ],
+    "scrubs": [
+      "护士服",
+      "手术服"
+    ]
+  },
+  "fabric": {
+    "cotton": [
+      "纯棉",
+      "棉"
+    ],
+    "100% cotton": [
+      "100%纯棉",
+      "全棉"
+    ],
+    "combed cotton": [
+      "精梳棉"
+    ],
+    "organic cotton": [
+      "有机棉"
+    ],
+    "pima cotton": [
+      "匹马棉"
+    ],
+    "polyester": [
+      "涤纶",
+      "聚酯纤维"
+    ],
+    "recycled polyester": [
+      "再生涤纶",
+      "RPET"
+    ],
+    "cotton polyester blend": [
+      "棉涤",
+      "涤棉"
+    ],
+    "linen": [
+      "亚麻"
+    ],
+    "cotton linen": [
+      "棉麻"
+    ],
+    "silk": [
+      "真丝",
+      "桑蚕丝"
+    ],
+    "satin": [
+      "缎面",
+      "醋酸缎"
+    ],
+    "wool": [
+      "羊毛"
+    ],
+    "merino wool": [
+      "美利奴羊毛"
+    ],
+    "cashmere": [
+      "羊绒"
+    ],
+    "acrylic": [
+      "腈纶"
+    ],
+    "nylon": [
+      "尼龙",
+      "锦纶"
+    ],
+    "spandex": [
+      "氨纶",
+      "弹力纤维"
+    ],
+    "elastane": [
+      "氨纶"
+    ],
+    "viscose": [
+      "粘胶纤维",
+      "人造棉"
+    ],
+    "rayon": [
+      "人造棉",
+      "粘纤"
+    ],
+    "modal": [
+      "莫代尔"
+    ],
+    "tencel": [
+      "天丝",
+      "莱赛尔"
+    ],
+    "bamboo fiber": [
+      "竹纤维"
+    ],
+    "denim": [
+      "牛仔布",
+      "丹宁"
+    ],
+    "fleece": [
+      "摇粒绒",
+      "抓绒"
+    ],
+    "sherpa": [
+      "羊羔绒"
+    ],
+    "french terry": [
+      "毛圈布",
+      "法式毛圈"
+    ],
+    "terry": [
+      "毛巾布"
+    ],
+    "jersey": [
+      "汗布",
+      "单面针织"
+    ],
+    "interlock": [
+      "双面针织"
+    ],
+    "rib knit": [
+      "罗纹布"
+    ],
+    "waffle": [
+      "华夫格"
+    ],
+    "corduroy": [
+      "灯芯绒"
+    ],
+    "leather": [
+      "真皮",
+      "皮革"
+    ],
+    "pu leather": [
+      "PU皮",
+      "仿皮"
+    ],
+    "suede": [
+      "麂皮绒"
+    ],
+    "mesh": [
+      "网眼布",
+      "网纱"
+    ],
+    "chiffon": [
+      "雪纺"
+    ],
+    "velvet": [
+      "丝绒",
+      "天鹅绒"
+    ],
+    "down": [
+      "羽绒",
+      "白鸭绒"
+    ],
+    "twill": [
+      "斜纹布"
+    ],
+    "canvas": [
+      "帆布"
+    ],
+    "ripstop": [
+      "格子防撕布"
+    ],
+    "softshell fabric": [
+      "软壳面料"
+    ],
+    "neoprene": [
+      "潜水料"
+    ],
+    "knit": [
+      "针织"
+    ],
+    "woven": [
+      "梭织"
+    ],
+    "boucle": [
+      "圈圈纱",
+      "粗花呢"
+    ],
+    "tweed": [
+      "粗花呢"
+    ],
+    "poplin": [
+      "府绸"
+    ],
+    "flannel": [
+      "法兰绒"
+    ],
+    "gauze": [
+      "纱布"
+    ],
+    "seersucker": [
+      "泡泡纱"
+    ]
+  },
+  "fit": {
+    "oversized": [
+      "宽松",
+      "oversize",
+      "廓形"
+    ],
+    "loose": [
+      "宽松"
+    ],
+    "slim fit": [
+      "修身",
+      "紧身"
+    ],
+    "regular fit": [
+      "常规版型"
+    ],
+    "relaxed": [
+      "休闲宽松"
+    ],
+    "boxy": [
+      "廓形",
+      "方正版型"
+    ],
+    "cropped": [
+      "短款"
+    ],
+    "longline": [
+      "长款"
+    ],
+    "high waist": [
+      "高腰"
+    ],
+    "low rise": [
+      "低腰"
+    ],
+    "wide leg": [
+      "阔腿"
+    ],
+    "straight leg": [
+      "直筒"
+    ],
+    "tapered": [
+      "小脚",
+      "锥形"
+    ],
+    "drop shoulder": [
+      "落肩"
+    ],
+    "plus size": [
+      "大码",
+      "加大码"
+    ],
+    "petite": [
+      "小码"
+    ],
+    "tall": [
+      "加长款"
+    ]
+  },
+  "detail": {
+    "embroidery": [
+      "刺绣",
+      "绣花"
+    ],
+    "3d embroidery": [
+      "立体绣",
+      "3D刺绣"
+    ],
+    "chenille patch": [
+      "毛巾绣",
+      "雪尼尔贴布"
+    ],
+    "screen print": [
+      "丝印",
+      "丝网印花"
+    ],
+    "puff print": [
+      "发泡印花"
+    ],
+    "dtg print": [
+      "数码直喷",
+      "数码印花"
+    ],
+    "heat transfer": [
+      "烫画",
+      "热转印"
+    ],
+    "sublimation": [
+      "热升华印花"
+    ],
+    "tie dye": [
+      "扎染"
+    ],
+    "acid wash": [
+      "酸洗",
+      "雪花洗"
+    ],
+    "stone wash": [
+      "石磨洗"
+    ],
+    "garment dyed": [
+      "成衣染色"
+    ],
+    "washed": [
+      "水洗"
+    ],
+    "distressed": [
+      "破洞",
+      "做旧"
+    ],
+    "zipper": [
+      "拉链"
+    ],
+    "ykk zipper": [
+      "YKK拉链"
+    ],
+    "drawstring": [
+      "抽绳"
+    ],
+    "pockets": [
+      "口袋"
+    ],
+    "ribbed cuffs": [
+      "罗纹袖口"
+    ],
+    "raglan sleeve": [
+      "插肩袖"
+    ],
+    "heavyweight": [
+      "重磅"
+    ],
+    "lightweight": [
+      "轻薄"
+    ],
+    "gsm": [
+      "克重"
+    ],
+    "seamless": [
+      "无缝"
+    ],
+    "quick dry": [
+      "速干"
+    ],
+    "moisture wicking": [
+      "吸湿排汗"
+    ],
+    "anti pilling": [
+      "抗起球"
+    ],
+    "waterproof": [
+      "防水"
+    ],
+    "windproof": [
+      "防风"
+    ],
+    "breathable": [
+      "透气"
+    ],
+    "stretch": [
+      "弹力"
+    ],
+    "four way stretch": [
+      "四面弹"
+    ],
+    "thermal": [
+      "保暖",
+      "加绒"
+    ],
+    "fleece lined": [
+      "加绒加厚"
+    ],
+    "uv protection": [
+      "防晒",
+      "防紫外线"
+    ],
+    "antibacterial": [
+      "抗菌"
+    ],
+    "print": [
+      "印花"
+    ],
+    "graphic": [
+      "图案印花"
+    ],
+    "logo": [
+      "logo",
+      "标志"
+    ],
+    "pattern": [
+      "图案"
+    ],
+    "stripe": [
+      "条纹"
+    ],
+    "check": [
+      "格子"
+    ],
+    "plaid": [
+      "格纹"
+    ],
+    "ribbed": [
+      "罗纹"
+    ],
+    "lined": [
+      "夹里"
+    ],
+    "padded": [
+      "填充"
+    ],
+    "hooded": [
+      "连帽"
+    ],
+    "zipped": [
+      "拉链"
+    ],
+    "buttoned": [
+      "纽扣"
+    ],
+    "pocket": [
+      "口袋"
+    ]
+  },
+  "audience": {
+    "mens": [
+      "男装",
+      "男士"
+    ],
+    "womens": [
+      "女装",
+      "女士"
+    ],
+    "unisex": [
+      "男女同款",
+      "中性"
+    ],
+    "kids": [
+      "童装"
+    ],
+    "toddler": [
+      "幼童装"
+    ],
+    "baby": [
+      "婴儿装"
+    ],
+    "teen": [
+      "青少年装"
+    ],
+    "men": [
+      "男装",
+      "男士"
+    ],
+    "man": [
+      "男装"
+    ],
+    "male": [
+      "男装"
+    ],
+    "women": [
+      "女装",
+      "女士"
+    ],
+    "woman": [
+      "女装"
+    ],
+    "female": [
+      "女装"
+    ],
+    "ladies": [
+      "女装"
+    ],
+    "boys": [
+      "男童装"
+    ],
+    "girls": [
+      "女童装"
+    ],
+    "children": [
+      "童装"
+    ]
+  },
+  "season": {
+    "spring": [
+      "春季"
+    ],
+    "summer": [
+      "夏季",
+      "夏装"
+    ],
+    "autumn": [
+      "秋季",
+      "秋装"
+    ],
+    "fall": [
+      "秋季"
+    ],
+    "winter": [
+      "冬季",
+      "冬装"
+    ],
+    "spring autumn": [
+      "春秋"
+    ],
+    "all season": [
+      "四季"
+    ]
+  },
+  "color": {
+    "black": [
+      "黑色"
+    ],
+    "white": [
+      "白色"
+    ],
+    "off white": [
+      "米白"
+    ],
+    "cream": [
+      "米白色",
+      "奶油色"
+    ],
+    "grey": [
+      "灰色"
+    ],
+    "gray": [
+      "灰色"
+    ],
+    "charcoal": [
+      "深灰"
+    ],
+    "navy": [
+      "藏青色",
+      "藏蓝"
+    ],
+    "blue": [
+      "蓝色"
+    ],
+    "sky blue": [
+      "天蓝色"
+    ],
+    "green": [
+      "绿色"
+    ],
+    "olive": [
+      "军绿色"
+    ],
+    "sage": [
+      "豆绿色",
+      "雾霾绿"
+    ],
+    "red": [
+      "红色"
+    ],
+    "burgundy": [
+      "酒红色"
+    ],
+    "pink": [
+      "粉色"
+    ],
+    "purple": [
+      "紫色"
+    ],
+    "yellow": [
+      "黄色"
+    ],
+    "orange": [
+      "橙色"
+    ],
+    "brown": [
+      "棕色",
+      "咖色"
+    ],
+    "beige": [
+      "米色"
+    ],
+    "khaki": [
+      "卡其色"
+    ],
+    "camel": [
+      "驼色"
+    ]
+  },
+  "commercial": {
+    "custom logo": [
+      "定制logo",
+      "来图定制"
+    ],
+    "custom": [
+      "定制",
+      "支持定制"
+    ],
+    "oem": [
+      "OEM代工",
+      "贴牌代工"
+    ],
+    "odm": [
+      "ODM"
+    ],
+    "private label": [
+      "贴牌",
+      "自有品牌"
+    ],
+    "small batch": [
+      "小批量",
+      "小单快反"
+    ],
+    "dropshipping": [
+      "一件代发"
+    ],
+    "wholesale": [
+      "批发"
+    ],
+    "factory direct": [
+      "工厂直销",
+      "源头工厂"
+    ],
+    "in stock": [
+      "现货"
+    ],
+    "sample": [
+      "样品",
+      "打样"
+    ],
+    "cross border": [
+      "跨境",
+      "跨境专供"
+    ],
+    "foreign trade": [
+      "外贸",
+      "外贸原单"
+    ],
+    "ready to ship": [
+      "现货速发"
+    ],
+    "no moq": [
+      "无起订量"
+    ]
+  },
+  "certification": {
+    "oeko-tex": [
+      "OEKO-TEX认证",
+      "生态纺织品认证"
+    ],
+    "oeko tex": [
+      "OEKO-TEX认证"
+    ],
+    "bsci": [
+      "BSCI认证"
+    ],
+    "grs": [
+      "GRS认证",
+      "全球回收标准"
+    ],
+    "gots": [
+      "GOTS认证",
+      "有机认证"
+    ],
+    "sedex": [
+      "SEDEX认证"
+    ],
+    "iso9001": [
+      "ISO9001认证"
+    ],
+    "wrap": [
+      "WRAP认证"
+    ],
+    "reach": [
+      "REACH认证"
+    ],
+    "ce": [
+      "CE认证"
+    ]
+  },
+  "quality_signals": {
+    "factory": [
+      "源头工厂",
+      "厂家直销",
+      "实力工厂"
+    ],
+    "trader": [
+      "贸易商",
+      "代理"
+    ],
+    "verified": [
+      "实力商家",
+      "认证工厂"
+    ]
+  }
+}
