@@ -1,0 +1,8 @@
+# Core: the MCP SDK. 1.x exposes FastMCP, 2.x exposes MCPServer; the server
+# module supports both, so pin only if your environment needs it.
+mcp>=1.13
+
+# Only needed for the remote (streamable HTTP) transport used by claude.ai
+# custom connectors. Local stdio usage needs neither.
+uvicorn>=0.30
+starlette>=0.37

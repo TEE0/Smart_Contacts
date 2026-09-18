@@ -16,6 +16,13 @@ Representing a technical convergence of Stateless and Stateful Smart Contracts, 
 
 - The “Algogenous_Contracts” Folder contains examples of  Algogenous Smart Contracts.
 - The “Single_State_Contracts” Folder contains examples of Stateful and Stateless Contracts.
+- The “Sourcing_Agent” Folder contains a standalone AI sourcing agent for 1688.com, exposed as an MCP connector. It is independent of the Algorand contracts above and has its own README, dependencies and tests — see [Sourcing_Agent/README.md](Sourcing_Agent/README.md).
+
+# Sourcing Agent (1688)
+
+A personalised clothing-sourcing agent for [1688.com](https://1688.com), China's wholesale marketplace, connectable to Claude or any MCP-capable AI. Set your preferences once — price band, MOQ ceiling, fabrics, supplier standards, destination — and it translates an English brief into the Chinese 1688 sellers actually use, searches across several phrasings, filters out anything breaching your constraints, vets the suppliers, estimates landed cost per unit, and returns a ranked shortlist with the reasoning for every placement. It also drafts the Chinese message to send the supplier, with an English back-translation.
+
+Setup, connector configuration and the tool reference are in [Sourcing_Agent/README.md](Sourcing_Agent/README.md).
 
 
 
